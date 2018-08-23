@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# tic-tac-toe
-=======
 # Tic-Tac-Toe
 
 
@@ -20,4 +17,6 @@ make run
     * Add Single player.
         * Add AI
 ---
->>>>>>> #
+
+## Licence:
+    MIT Licence
