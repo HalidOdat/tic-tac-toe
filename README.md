@@ -1,10 +1,8 @@
 # Tic-Tac-Toe
-
-
 This is a simple Tic-Tac-toe terminal game writen in c.
 
 ---
-## Installation
+## Installation and basic usage:
 
 ```bash
 make run
